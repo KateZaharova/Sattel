@@ -1,2 +1,0 @@
-# Sattel
-Newsletter Sattel
