@@ -223,6 +223,11 @@ img{
     gap:12px;
 }
 
+.list-white-block{
+    list-style: none;
+    padding-left: 0;
+}
+
 .container-footer{
     display: flex;
     justify-content: space-between;
